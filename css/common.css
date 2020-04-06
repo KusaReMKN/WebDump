@@ -1,0 +1,14 @@
+.con {
+	box-sizing: border-box;
+	padding: 1ch;
+	width: 100%;
+
+	white-space: pre;
+
+	background-color: #111;
+	color: #eee;
+
+	font-family: monospace;
+
+	border: groove;
+}
